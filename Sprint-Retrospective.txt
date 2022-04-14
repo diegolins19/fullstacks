@@ -1,0 +1,4 @@
+Sprint Retrospective
+
+A sprint ocorreu de maneira adequada, com o contéudo da sprint sendo enviado para um repositório remoto no GitHub, contendo os commits que foram feitos no processo. Entretanto o commit de merge do arquivo "index" não aparece quando o histórico de commits é solicitado, essa ausência não comprometeu em nada o desenvolvimento da sprint.
+Sugiro que uma imagem de cada carro citado na página index e que os nomes dos mesmos recebam links para uma nova guia com as informações do carro que o usuário clicou.

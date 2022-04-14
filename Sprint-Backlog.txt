@@ -1,0 +1,15 @@
+Product Backlog ID 1
+	Para proporcionar uma melhor experiência de usuário
+	Eu, como cliente da empresa e usuário do portal
+	Quero ver a fonte com os nomes dos veículos na cor azul na página index
+Product Backlog ID 3
+	Para facilitar o meu entendimento e navegação pelo portal
+	Eu, como cliente da empresa e usuário do portal
+	Quero que na página de contatos os nomes dos links para outras páginas sejam mais detalhados
+
+Tarefas
+	1ª tarefa: Fazer upload dos arquivos para o GitHub (10 minutos)
+	2ª tarefa: Clonar o repositório remoto para o repositório local e criar duas branchs para os arquivos (20 minutos)
+	3ª tarefa: Alterar os arquivos clonados (5 minutos)
+	4ª tarefa: Fazer merge para cada branch com a branch principal (10 minutos)
+	5ª tarefa: Enviar os arquivos alterados para o repositório remoto no GitHub (10 minutos)
